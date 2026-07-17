@@ -1,5 +1,5 @@
 context:
-  version: "0.1.8"
+  version: "0.1.9"
 
 package:
   name: tsshd
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/trzsz/tsshd/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 1d19f99a95f19933d8058df1209b421400eaca8c2bf2e045747c8f6c68887d56
+  sha256: fdf05a2323c8cc4ecef30e5258714d1651d80206f1bc0a5a88a45d716e82bb18
 
 build:
   number: 0
